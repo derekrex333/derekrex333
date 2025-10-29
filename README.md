@@ -1,10 +1,6 @@
 # Derek Alvirde
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derek-alvirde/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:derekjrex@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/derekrex333)
 
 **Estudiante de Ingeniería en Ciencia de Datos**  
 Universidad del Valle de México (UVM) | Ciudad de México, México  
